@@ -1,7 +1,6 @@
 # House Rocket
 ![house-rocket](https://user-images.githubusercontent.com/85557808/123824263-ca722f00-d8f5-11eb-87ff-45e87deeaca6.png)
 
-## Buying and selling properties
 ## 1. Business Problem
 *House Rocket* is a platform for buying and selling properties. Its business model is buying properties and then selling them at a higher price, with the purpose of maximizing profit. The different attributes of the properties influence their quality and drawing power and, therefore, their price.
 
